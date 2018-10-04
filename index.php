@@ -49,5 +49,15 @@ include ('config/timezone.php');
         </div>
     </div>
     <script src = "assets/js/main.js" ></script >
+    <script type="text/javascript">
+    var securedFields = csf(
+        {
+            configObject : {
+                originKey : "pub.v2.8115139379850367.zj9Qx-IliFJ5zCePzUunXVzS20w-_S2FmVPyjbDu8YI"
+            },
+            rootNode: '.cards-div'
+        }
+    );
+    </script>
 </body>
 </html>
